@@ -1,0 +1,68 @@
+{
+  "repositories": [
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/lightnest.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_security.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_multitheme.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_core.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_article.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_product.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_ghostery.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_ratings_reviews.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_store.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_c_image.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_c_text.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_c_core.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_c_map.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_c_sideimagetext.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_c_accordion.git"
+    },
+    {
+      "type": "git",
+      "url": "ssh://git@52.166.71.39:7999/lightnest/dsu_c_slider.git"
+    }
+  ]
+}
